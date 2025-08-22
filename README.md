@@ -57,7 +57,6 @@ For classification tasks (Email Spam & Customer Churn), ROC curves were generate
 ![ROC Curve Example](Images/Email_spam_ROC_curve.png)
 ![ROC Curve Example](Images/Customer_churn_ROC_curve.png)
 
-*Note: Place your ROC images in an `images/` folder within the repository.*
 
 ## Requirements
 
