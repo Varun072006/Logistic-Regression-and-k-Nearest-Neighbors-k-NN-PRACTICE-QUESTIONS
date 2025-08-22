@@ -54,8 +54,8 @@ The goal is to understand the effect of feature scaling, hyperparameter tuning (
 
 For classification tasks (Email Spam & Customer Churn), ROC curves were generated to evaluate the trade-off between true positive and false positive rates. Example images of ROC curves can be included here:
 
-![ROC Curve Example](images/roc_email_spam.png)
-![ROC Curve Example](images/roc_customer_churn.png)
+![ROC Curve Example](Images\Customer_churn_ROC_curve.png)
+![ROC Curve Example](Images\images/roc_customer_churn.png)
 
 *Note: Place your ROC images in an `images/` folder within the repository.*
 
